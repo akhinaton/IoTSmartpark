@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935109438701",
+    "firebase_url": "https://iot-test-8f2a6.firebaseio.com",
+    "project_id": "iot-test-8f2a6",
+    "storage_bucket": "iot-test-8f2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935109438701:android:a796fc5646a786aa",
+        "android_client_info": {
+          "package_name": "com.example.iotsmartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935109438701-nv0ld2m643jbt2anopibqp4r6nektehd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotsmartpark",
+            "certificate_hash": "180fba50753d8ea620623f4d1bc903b73e6d3db2"
+          }
+        },
+        {
+          "client_id": "935109438701-9kdm3uqr0m5poteb8k0ehrmvfqbr9nb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AAE0LlInjYWgwqVNe3St9GEfQFj_KBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935109438701-9kdm3uqr0m5poteb8k0ehrmvfqbr9nb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
